@@ -9,6 +9,8 @@
         android:theme="@style/AppTheme" >
         <activity android:name=".ui.activity.RegisterActivity">
         </activity>
+        <activity android:name=".ui.activity.TestActivity">
+        </activity>
     </application>
 
 </manifest>
